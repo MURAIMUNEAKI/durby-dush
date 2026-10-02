@@ -1,0 +1,8 @@
+{
+  "name": "Remix Derby Dash: 疾走！障害競馬レース",
+  "description": "連打でスピードアップ！障害物を巧みにかわしてゴールを目指す、爽快競馬アクションレースゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
